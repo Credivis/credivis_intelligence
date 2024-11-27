@@ -1,18 +1,18 @@
-# 🚀 Express TypeScript Boilerplate 2024
+# 🚀 Credivis Intelligence
 
-[![Build](https://github.com/edwinhern/express-typescript-2024/actions/workflows/build.yml/badge.svg)](https://github.com/edwinhern/express-typescript-2024/actions/workflows/build.yml)
-[![Test](https://github.com/edwinhern/express-typescript-2024/actions/workflows/test.yml/badge.svg)](https://github.com/edwinhern/express-typescript-2024/actions/workflows/test.yml)
-[![Code Quality](https://github.com/edwinhern/express-typescript-2024/actions/workflows/code-quality.yml/badge.svg)](https://github.com/edwinhern/express-typescript-2024/actions/workflows/code-quality.yml)
-[![Docker Image CI](https://github.com/edwinhern/express-typescript-2024/actions/workflows/docker-image.yml/badge.svg)](https://github.com/edwinhern/express-typescript-2024/actions/workflows/docker-image.yml)
+[![Build](https://github.com/Credivis/credivis_intelligence/actions/workflows/build.yml/badge.svg)](https://github.com/Credivis/credivis_intelligence/actions/workflows/build.yml)
+[![Test](https://github.com/Credivis/credivis_intelligence/actions/workflows/test.yml/badge.svg)](https://github.com/Credivis/credivis_intelligence/actions/workflows/test.yml)
+[![Code Quality](https://github.com/Credivis/credivis_intelligence/actions/workflows/code-quality.yml/badge.svg)](https://github.com/Credivis/credivis_intelligence/actions/workflows/code-quality.yml)
+[![Docker Image CI](https://github.com/Credivis/credivis_intelligence/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Credivis/credivis_intelligence/actions/workflows/docker-image.yml)
 
 ``` code
 Hey There! 🙌 
-🤾 that ⭐️ button if you like this boilerplate. 
+🤾 that ⭐️ button if you like this repo. 
 ```
 
 ## 🌟 Introduction
 
-Welcome to the Express TypeScript Boilerplate 2024 – a streamlined, efficient, and scalable foundation for building powerful backend services with modern tools and practices in Express.js and TypeScript.
+Welcome to the Credivis Intelligence – a streamlined, efficient, and scalable foundation for building our powerful backend services with modern tools and practices in Express.js and TypeScript.
 
 ## 💡 Motivation
 
@@ -42,10 +42,6 @@ This boilerplate aims to:
 - 🧩 Swagger UI: Interactive API documentation generated from Zod schemas
 
 ## 🛠️ Getting Started
-
-### Video Demo
-
-For a visual guide, watch the [video demo](https://github.com/user-attachments/assets/b1698dac-d582-45a0-8d61-31131732b74e) to see the setup and running of the project.
 
 ### Step-by-Step Guide
 
