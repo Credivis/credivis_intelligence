@@ -12,7 +12,7 @@ Hey There! 🙌
 
 ## 🌟 Introduction
 
-Welcome to the Credivis Intelligence – a streamlined, efficient, and scalable foundation for building our powerful backend services with modern tools and practices in Express.js and TypeScript.
+Welcome to Credivis Intelligence – a streamlined, efficient, and scalable foundation for building our powerful backend services with modern tools and practices in Express.js and TypeScript.
 
 ## 💡 Motivation
 
@@ -47,8 +47,9 @@ This boilerplate aims to:
 
 #### Step 1: 🚀 Initial Setup
 
-- Clone the repository: `git clone https://github.com/edwinhern/express-typescript-2024.git`
-- Navigate: `cd express-typescript-2024`
+- Fork the repository: `https://github.com/Credivis/credivis_intelligence.git`
+- Clone forked repo: `git clone https://github.com/<username>/credivis_intelligence.git`
+- Navigate: `cd credivis_intelligence`
 - Install dependencies: `npm ci`
 
 #### Step 2: ⚙️ Environment Configuration
